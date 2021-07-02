@@ -18,4 +18,4 @@ A demanda de negócio consiste em construir uma API que através do método GET 
 
 ## Layout do Projeto :arrow_forward:
 
-![](models/AnimaAPIGET.gif)
+![](https://github.com/omahin/Projeto-API-GET/blob/main/src/models/AnimaAPIGET.gif)

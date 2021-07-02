@@ -6,13 +6,13 @@ Reprograma :rocket: | Turma Online 12 | Back-end | 2021 | Projeto Prático com A
 
 ## Descrição do Projeto :capital_abcd: 
 
-A demanda de negócio consiste em construir uma API que através do método GET retorne os seguintes valores, de uma lista no formato JSON.
+A demanda de negócio consiste em construir uma API que através do método GET retorne as seguintes informações, de uma lista no formato JSON.
 
 :small_blue_diamond: Retorne todas as séries
 
 :small_blue_diamond: Retorne a série pelo ID escolhido pelo usuário
 
-:small_blue_diamond: Retorne pelo título escolhido pelo usuário
+:small_blue_diamond: Retorne o título escolhido pelo usuário
 
 :small_blue_diamond: Retorne o gênero escolhido pelo usuário
 

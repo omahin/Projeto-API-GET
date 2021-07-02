@@ -16,6 +16,6 @@ A demanda de negócio consiste em construir uma API que através do método GET 
 
 :small_blue_diamond: Retorne o gênero escolhido pelo usuário
 
-### Verificação da API no Postman :arrow_forward:
+## Testando a API no Postman :arrow_forward:
 
 ![](https://github.com/omahin/Projeto-API-GET/blob/main/src/models/AnimaAPIGET.gif)
